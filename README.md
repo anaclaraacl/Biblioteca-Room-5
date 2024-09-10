@@ -1,4 +1,4 @@
-O projeto BhBusMetrop foi desenvolvido para gerenciar e persistir informações sobre o tráfego de ônibus na região metropolitana de Belo Horizonte. A aplicação mobile, desenvolvida em Kotlin, utiliza a biblioteca Room para persistência de dados em um banco de dados SQLite.
+[Aula 05 | Android] O projeto BhBusMetrop foi desenvolvido para gerenciar e persistir informações sobre o tráfego de ônibus na região metropolitana de Belo Horizonte. A aplicação mobile, desenvolvida em Kotlin, utiliza a biblioteca Room para persistência de dados em um banco de dados SQLite.
 
 Funcionalidades
 Persistência de Dados: A aplicação armazena informações sobre os ônibus que passam pela região metropolitana.
